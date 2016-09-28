@@ -14,7 +14,7 @@ namespace WindowsFormsApplication1
     {
         public Form1()
         {
-            //test comment2
+            //test comment
             InitializeComponent();
         }
     }
